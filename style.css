@@ -14,7 +14,7 @@
 }
 
 .cover-photo {
-    background-image: url(./CO.PNG);
+    background-image: url(./pic2/food2.png);
     height: 800PX;
     width: 100%;
     background-size: cover;
@@ -37,7 +37,7 @@ a {
     text-decoration: none;
     font-size: 30px;
     padding: 10px;
-    color: rgb(238, 244, 244);
+    color: rgb(72, 93, 93);
 }
 
 .fast-img {
@@ -83,7 +83,7 @@ nav {
 
 .text {
     font-size: 40px;
-    color: white;
+    color: rgb(10, 167, 44);
     text-align: center;
     margin-top: 200px;
 }
@@ -215,7 +215,7 @@ section.menu {
     font-family: roboto;
     color: rgba(0, 0, 0, 0.585);
     height: 700px;
-    background-image: url(./f1.png);
+    background-image: url(./pic2/f1.png);
 
     background-size: cover;
     background-attachment: fixed;
@@ -394,7 +394,7 @@ section.menu {
 
 .div_page {
     height: 700px;
-    background-image: url(./f11.png);
+    background-image: url(./pic2/f11.png);
     background-size: cover;
     height: 800px;
 }
@@ -509,7 +509,7 @@ section.menu {
 
 .third_page {
     height: 800px;
-    background-image: url(./f6.png);
+    background-image: url(./pic2/f6.png);
     background-size: cover;
 
 }
@@ -559,7 +559,7 @@ section.menu {
     width: 300px;
     background-color: #fff;
     margin-left: 100px;
-    height: 400px;
+    height: 500px;
 }
 
 .morning_2 h3 {
@@ -792,7 +792,7 @@ li>a {
     font-style: italic;
     color: rgb(249, 250, 249);
     height: 500px;
-    background-image: url(./food2.png);
+    background-image: url(./pic2/f6.png);
     background-size: cover;
     background-attachment: fixed;
     font-style: italic;
@@ -893,7 +893,7 @@ li>a {
 
 .eight_page {
     display: flex;
-    background: url(./background.jpg);
+    background: url(./pic2/f3.png);
     background-size: cover;
     gap: 90px;
     height: 500px;
